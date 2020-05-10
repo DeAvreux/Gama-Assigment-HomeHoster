@@ -92,4 +92,3 @@ function displayPlaces(arr) {
   }
   document.getElementById("ofertas").innerHTML = out;
 }
-
