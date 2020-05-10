@@ -1,1 +1,1 @@
-Assigment Javascript Gama Academy
+HOMEHOSTER: Find a place to stay!!
